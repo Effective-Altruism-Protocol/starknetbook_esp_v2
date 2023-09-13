@@ -22,9 +22,9 @@ However, the Cairo VM allow us to innovate beyond the Ethereum Virtual Machine (
 * Volition: Gives developers the control to manage data availability on Ethereum (L1) or Starknet (L2), leading to lower costs.
 * Paymaster: Supports gasless transactions, enhancing user accessibility.
 
-== Starknet Philosophy: Built for Developers
+== Filosofia de Starknet: Creada para desarrolladores.
 
-Starknet is all about being developer-friendly. It's a high-performance platform designed to make building decentralized apps easier and more powerful. Here are its pillars:
+Todo en Starknet esta diseñado pára ser amigable para los desarrolladores. Es una plataforma de alto rendimiento diseñada para construir aplicaciones descentralizadas potentes de forma facil. Estas son sus bases:
 
 * Speed and Cost: Fast transactions and low fees make it ideal for resource-heavy apps.
 * Cairo: This evolving language makes it easier to use validity proofs and zk-STARKs tech.

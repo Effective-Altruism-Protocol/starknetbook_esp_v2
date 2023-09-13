@@ -63,19 +63,23 @@ Para una guia detallada de como contribuir visita https://github.com/starknet-ed
 * ¿Puede una sección ser mejorada? Sientete libre de modificarla.
 * ¿Quieres agregar codigo en otro lenguaje de programación? Por favor hazlo. 
 * ¿Consguiste un error? Arreglalo.
-* Exercises unclear? Add explanations.
-* Show off your favorite Cairo features through new exercises.
+* ¿Los ejercicios no son claros? Agrega explicaciones.
+* Muestranos tus caracteristicas favoritas de Cairo a traves de nuevos ejercicios.
 
-== Additional Key Educational Resources
+== Recursos claves adicionales para el aprendizaje
 
-We've compiled a list of valuable educational resources that will help deepen your understanding and enhance your skills in coding with Cairo and staying abreast with Starknet developments:
+Hemos recopilado una lista de valiosos recuerdos educativos que te ayudaran a profundizar tu entendimiento y mejorar tus habilidades con Cairo y mantenerte al tanto en el desarrollo de Starknet:
 
-. **Cairo Book**: A comprehensive guide to Cairo, the programming language for Starknet smart contracts. You can access it https://book.cairo-lang.org/[here].
-. **Starklings**: A resource specifically designed to guide you through learning Cairo programming, ensuring that you reach a proficient level. You can access it https://github.com/shramee/starklings-cairo1[here].
-. **Starknet Community Forum**: An online platform where you can engage in discussions about the latest developments in Starknet. Join the conversation https://community.starknet.io/[here].
-. **Starknet Documentation**: You can browse through the documentation https://docs.starknet.io/[here].
-. **Cairo Documentation**: Explore it https://www.cairo-lang.org/docs[here].
-. **Starknet Developer Telegram (English)**: A community for English-speaking Starknet developers. This is a great platform for networking, sharing ideas, and troubleshooting together. Join us on Telegram https://t.me/starknetna[here].
+1. **Starklings**: Un recurso especificamente diseñado para guiarte a traves del aprendizaje en la programación con Cairo, asegurandote de alcanzar un nivel competente. Puedes acceder a el https://github.com/shramee/starklings-cairo1[aquí].
+2. **Foros de la comunidad de Starknet**: Una plataforma en línea donde puede participar en debates sobre los últimos desarrollos en Starknet. Unete a la conversación https://community.starknet.io/[aquí].
+3. **Documentación de Starknet**: Puedes navegar en la documentación https://docs.starknet.io/[aquí].
+4. **Documentación de Cairo**: Explorala https://www.cairo-lang.org/docs[aquí].
+5. **Starknet Developer Telegram (English)**: Una comunidad en ingles para los desarrolladores de Starknet. Esta es una gran plataforma para hacer conexiones, compartir ideas y resolver problemas juntos. Unete a la comunidad de Telegram en ingles  https://t.me/starknetna[aquí].
+6. **Starknetes - Desarrollador@s de Starknet Telegram (Español)**: Comunidad enfocada en la enseñanza en español del ecosistema StarkNet. Unete a Telegram en español https://t.me/starknet_es[aquí]
+
+== Autores del Starknet Book ✨
+
+Extendemos nuestros mas sinceros agradecimientos a aquellos excepcionales individuos que han hecho contribuciones invaluables al Starknet Book:
 
 == Starknet Book Authors ✨
 

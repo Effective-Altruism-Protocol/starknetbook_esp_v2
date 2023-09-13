@@ -1,8 +1,8 @@
 [id="introduction"]
 
-= Introduction to Starknet
+= Introducción a Starknet
 
-Welcome to the Starknet Book. This is your roadmap to Starknet's key features, its core philosophy, and its unique language, Cairo. Whether you're a developer, a crypto fan, or just curious, this book is your starting point.
+Bienvenido al Starknet Book. Este es tu camino para entender las caracasteristicas fudnamentales de Starknet, su filosofia y su lenguaje único, Cairo. Bien seas un desarrollador, un entusiasta cripto o apenas estas llegando a este mundo, este libro es tu punto de partida. 
 
 == What is Starknet?
 

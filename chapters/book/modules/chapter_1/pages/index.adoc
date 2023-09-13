@@ -4,17 +4,17 @@
 
 Bienvenido al Starknet Book. Este es tu camino para entender las caracasteristicas fudnamentales de Starknet, su filosofia y su lenguaje único, Cairo. Bien seas un desarrollador, un entusiasta cripto o apenas estas llegando a este mundo, este libro es tu punto de partida. 
 
-== What is Starknet?
+== ¿Qué es Starknet?
 
-Starknet is a Layer-2 network that makes Ethereum transactions faster, cheaper, and more secure using zk-STARKs technology. Think of it as a boosted layer on top of Ethereum, optimized for speed and cost.
+Starknet es una red de capa 3 que hace a las transacciones en Ethereum mas rápidas, mas economicas y mucho mas seguras a traves del uso de la tecnologia zk-STARKs. Piensa en ella como una capa mejorada sobre Ethereum optimizada en velocidad y costos.
 
-=== Key Features
+=== Caracteristicas clave.
 
-These are some key features of Starknet:
+Estas son algunas de las caracateristicas importantes de Starknet:
 
-* Low Costs: Transactions on Starknet cost less than on Ethereum. Future updates like Volition and EIP 4844 will make it even cheaper.
-* Developer-Friendly: Starknet lets developers easily build decentralized apps using its native language, Cairo.
-* Speed and Efficiency: Upcoming releases aim to make transactions even faster and cheaper.
+* Bajo Costo: Las transacciones en Starknet cuestan menos que en Ethereum. Proximas actualizaciones y mejoras como lo son Volition y la implementación EIP 4844 las harán aún mas economicas. 
+* Plataforma amigable con los desarrolladores: Starknet le permite a los desarrolladores construir aplicaciones descentralizadas usando su lenguaje nativo Cairo.
+* Rápidez y eficiencia:  Proximos lanzamientos apuntan a transacciones mas rápidas y economicas. 
 
 However, the Cairo VM allow us to innovate beyond the Ethereum Virtual Machine (EVM) and create a new paradigm for decentralized applications.
 

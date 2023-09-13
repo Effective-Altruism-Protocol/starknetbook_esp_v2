@@ -27,11 +27,12 @@ However, the Cairo VM allow us to innovate beyond the Ethereum Virtual Machine (
 Todo en Starknet esta diseñado pára ser amigable para los desarrolladores. Es una plataforma de alto rendimiento diseñada para construir aplicaciones descentralizadas potentes de forma facil. Estas son sus bases:
 
 * Velocidad y costos: Rápidas transacciones y bajos costos de comisión, la hacen ideal para aplicaciones de alto consumo de recursos. 
-* Cairo: Este lenguaje en evolución facilita el uso de *validity proof* y tecnologia *zk-STARKs* 
-* Community: Active communication with developers through Telegram and Discord.
-* Freedom: No more tech limitations. Build what you've always wanted.
-* Tools: A full suite of dev tools, including multiple SDKs and testing frameworks.
+* Cairo: Este lenguaje en evolución facilita el uso de *validity proof* y tecnologia *zk-STARKs* .
+* Comunidad: Comunicación activa con los desarrolladores a traves de Telegram y Discord.
+* Libertad: No mas limitaciones tecnlogicas. Construye lo que siempre has querido. 
+* Herramientas: Un conjunto completo de herramientas de desarrollo, incluyendo multiples SDKs y frameworks para *testing*.
 
+Esta filosofia 
 This philosophy drives Starknet's roadmap.
 
 == Cairo: The Language of Starknet

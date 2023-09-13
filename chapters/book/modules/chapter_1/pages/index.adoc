@@ -32,10 +32,9 @@ Todo en Starknet esta diseñado pára ser amigable para los desarrolladores. Es 
 * Libertad: No mas limitaciones tecnlogicas. Construye lo que siempre has querido. 
 * Herramientas: Un conjunto completo de herramientas de desarrollo, incluyendo multiples SDKs y frameworks para *testing*.
 
-Esta filosofia 
-This philosophy drives Starknet's roadmap.
+La filosofia que guia la ruta de Starknet:
 
-== Cairo: The Language of Starknet
+== Cairo: El lenguaje de Starknet
 
 Cairo is tailor-made for creating STARK-based smart contracts. As Starknet’s native language, it’s central to building scalable and secure decentralized apps. To start learning now, check out the https://cairo-book.github.io/[Cairo Book] and https://github.com/shramee/starklings-cairo1[Starklings].
 

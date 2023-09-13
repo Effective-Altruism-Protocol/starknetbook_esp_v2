@@ -7,9 +7,9 @@ IMPORTANTE: El *Starknet Book* es un libro en progreso creado por el aporte de l
 
 El *Starknet Book* es una guía paso a paso diseñada para enseñarte lo esencial del desarrollo en Starknet. Es un esfuezo en comunidad y cada capitulo te guiará a traves del ecosistema de Starknet.
 
-Aprende Cairo, es el lenguaje de programación clave para los contratos inteligentes en Starknet, es crucial. Es por eso que este libro trabaja de la mano con el Cairo Book, otro recursod de la comunidad, puedes acceder a su versión en español https://book.cairo-lang.org/es/[**aquí**]. 
+Aprende Cairo, es el lenguaje de programación clave para los contratos inteligentes en Starknet, es crucial. Es por eso que este libro trabaja de la mano con el *Cairo Book*, otro recurso de la comunidad, puedes acceder a su versión en español https://book.cairo-lang.org/es/[**aquí**]. 
 
-En resumen, el dominio de Cairo se alcanza a traves del *Cairo Book*, meintras que el *tarknet Book* se enfoca en las caracteristicas especificas de Starknet. Para un entendimiento completo recomendados explorar ambos recursos que aportarán gran beneficio a todo aspirante profundamente comprometido a dessarrollar en Starknet. Este libro te introducirá en las herramientas, arquitectura, configuración de cuentas, STARKs y otras aplicaciones especificas de Starknet. 
+En resumen, el dominio de Cairo se alcanza a traves del *Cairo Book*, mientras que el *Starknet Book* se enfoca en las caracteristicas especificas de Starknet. Para un entendimiento completo recomendados explorar ambos recursos que aportarán gran beneficio a todo aspirante profundamente comprometido a dessarrollar en Starknet. Este libro te introducirá en las herramientas, arquitectura, configuración de cuentas, STARKs y otras aplicaciones especificas de Starknet. 
 
 == Tabla de contenidos
 

@@ -81,9 +81,6 @@ Hemos recopilado una lista de valiosos recuerdos educativos que te ayudaran a pr
 
 Extendemos nuestros mas sinceros agradecimientos a aquellos excepcionales individuos que han hecho contribuciones invaluables al Starknet Book:
 
-== Starknet Book Authors ✨
-
-We extend our sincere gratitude to these exceptional individuals who have made invaluable contributions to the Starknet Book:
 
 [cols="5*"]
 |===

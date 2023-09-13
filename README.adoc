@@ -1,69 +1,68 @@
-= Welcome to The Starknet Book
-:navtitle: The Starknet Book
+= Bienvenido al *Starknet Book* en Español
+:navtitle: El *Starknet Book* (versión español)
 
 ====
-IMPORTANT: The Starknet Book is a work in progress, shaped by ongoing community input. Some sections may be incomplete or still under review and are marked under a 🚧 emoji. We welcome your suggestions, feedback, and content contributions to make this book a reliable guide for everyone.
+IMPORTANTE: El *Starknet Book* es un libro en progreso creado por el aporte de la comunidad. Algunas secciones pueden estar incompletas o estar bajo revisión y están marcadas con un 🚧 emoji. Agradecemos tus sugerencias, comentarios y contribución al contenido para hacer de este libro una guía confiable para todos.
 ====
 
-The Starknet Book is a step-by-step guide aimed at teaching you the essentials of Starknet development. It's a community effort, with each chapter guiding you through the Starknet ecosystem.
+El *Starknet Book* es una guía paso a paso diseñada para enseñarte lo esencial del desarrollo en Starknet. Es un esfuezo en comunidad y cada capitulo te guiará a traves del ecosistema de Starknet.
 
-Understanding Cairo, the key programming language for Starknet smart contracts, is crucial. That's why this book works hand-in-hand with the Cairo Book, another community resource. You can access the Cairo Book https://book.cairo-lang.org/[**here**].
+Aprende Cairo, es el lenguaje de programación clave para los contratos inteligentes en Starknet, es crucial. Es por eso que este libro trabaja de la mano con el Cairo Book, otro recursod de la comunidad, puedes acceder a su versión en español https://book.cairo-lang.org/es/[**aquí**]. 
 
-In short, the Cairo Book helps you master Cairo, while The Starknet Book focuses on Starknet's specific features. For a well-rounded understanding, we recommend exploring both. This book will introduce you to tools, architecture, account setups, STARKs, and Starknet-specific apps.
+En resumen, el dominio de Cairo se alcanza a traves del *Cairo Book*, meintras que el *tarknet Book* se enfoca en las caracteristicas especificas de Starknet. Para un entendimiento completo recomendados explorar ambos recursos que aportarán gran beneficio a todo aspirante profundamente comprometido a dessarrollar en Starknet. Este libro te introducirá en las herramientas, arquitectura, configuración de cuentas, STARKs y otras aplicaciones especificas de Starknet. 
 
-
-== Table of Contents
+== Tabla de contenidos
 
 [.chapter-titles]
 |===
-|Chapter | Description
+|Capítulo | Descripción
 
-|1: Starknet Introduction | Delve into the fundamental concepts of Starknet and acquaint yourself with the deployment of smart contracts.
+|1: Introducción a Starknet | Profundiza en los conceptos fundamentales de Starknet y familiarízate con el despliegue de contratos inteligentes.
 
-|2: Starknet Tooling | Familiarize yourself with vital tools, such as Protostar and Hardhat, and explore how languages like Javascript, Python, and Rust can be leveraged for Starknet interactions.
+|2: Herramientas de Starknet | Familiarízate con las herramientas esenciales como Protostar y Hardhat, y explora cómo se pueden utilizar lenguajes como Javascript, Python y Rust para interactuar con Starknet.
 
-|3: Starknet Architecture | Uncover Starknet's core structure, gaining insights into the transaction lifecycle and the interplay between the Sequencer, Prover, and Nodes.
+|3: Arquitectura de Starknet | Descubre la estructura central de Starknet, obteniendo información sobre el ciclo de vida de las transacciones y la interacción entre el Secuenciador, el Validador y los Nodos.
 
-|4: Account Abstraction | Delve deep into Starknet's unique approach to user accounts, and master the art of crafting custom accounts.
+|4: Abstracción de cuentas (*Account Abstraction*) | Profundiza en el enfoque único de Starknet para las cuentas de usuario, y domina el arte de crear cuentas personalizadas.
 
-|5: Pioneering Applications | Investigate the frontier of Starknet's capabilities, including On-Chain AI and Storage Proofs.
+|5: Aplicaciones pioneras | Investiga la frontera de las capacidades de Starknet, incluyendo la Inteligencia Artificial *On-Chain* y Pruebas de Almacenamiento (*Storage Proofs*).
 
-|6: STARKs | Dive into the intricacies of STARKs and their pivotal role in shaping Starknet's landscape.
+|6: STARKs | Sumérgete en las complejidades de los STARKs y su papel clave en el diseño de la visión de Starknet.
 |===
 
-== Where to Start?
+== ¿Por donde empezar?
 
-Depending on your goals and interests, you can choose different paths through the Starknet Book. Here are some recommendations based on various objectives:
+Dependiendo de tus metas e intereses, puedes elegir diversos caminos a traves del Starknet Book. Aqui les dejamos algunas recomendaciones basadas en varios objetivos:
 
-* If you're a *complete beginner* and want to start learning about Cairo and Starknet from scratch, follow the book in its entirety, starting with *Introduction to Starknet*.
+* Si eres un *principiante* y quieres empezar a aprender sobre Cairo y Starknet desde cero, sigue el libro completo, empezando con la *Introdución a Starknet*.
 
-* If you're an *experienced developer* looking to quickly dive into writing scalable and decentralized smart contracts, focus on the Cairo Book, particularly *chapter 12: Starknet Smart Contracts* (https://book.cairo-lang.org/ch99-00-starknet-smart-contracts.html[link]).
+* Si eres un *desarrolador experimentado* buscando sumergirte rapidamente en la la creación de contratos inteligentes escalables y descentralizados, enfocate en el el Cairo Book, particularmetne en el  ((https://book.cairo-lang.org/es/ch99-00-starknet-smart-contracts.html[*capítulo 12 Contratos Inteligentes en Starknet*])). 
 
-* If you're a *frontend developer* wanting to integrate Starknet with a React frontend using Javascript, prioritize the *starknet-js* and *starknet-react* subchapters in *Starknet Tooling*
+* Si eres un *desarrollador fronted* queriendo integrar Starknet con frontend en Reac usando JavaScripts, dale prioridad a los subcapitulos de *starknet-js* y *starknet-react* en *Herramientas de Starknet*.
 
-* If you're a *DevOps engineer* or *node operator* interested in running a Starknet node and indexer, head straight to *Starknet Architecture*.
+* Si eres del *DevOps* o un *operador de nodos* interesado en correr un nodo e indexador de starknet, ve directo a *Arquitectura de Starknet*.
 
-* If you're a *security researcher* or *smart contract auditor* wanting to learn about the Account Abstraction feature and its implications, go for *Account Abstraction*.
+* Si eres *analista de seguridad* o *auditor de contratos inteligentes* queriendo aprender sobre las caracteristicas de Abstracción de cuentas (Account Abstraction) y sus implicaciones, ve a *Abstracción de cuentas (Account Abstraction)*.
 
-* If you're a *blockchain enthusiast* curious about the underlying architecture and mechanics of Starknet and Cairo, explore *Starknet Architecture*.
+* Si eres un *entusiasta del blockchain* curioso acerca de los fundamentos en la arquitectura y mecanismos de Starknet y Cairo, explora *Arquitectura de Starknet*.
 
-* If you're a *cryptography expert* or *researcher* eager to understand the fundamentals of STARKs and their connection to the Starknet ecosystem, delve into *STARKs*.
+* Si eres un *experto criptografico* o *investigador* ansioso por comprender los fundamentos de de STARKs y sus implicaciones en el ecosistema de Starknet, adentrate en *STARKs*.
 
-Feel free to mix and match these paths based on your unique interests and requirements.
+Siéntete libre de combinar estas rutas basado en tus intereses y requerimientos.
 
-== Your Contributions Matter
+== Tu contribución es importante
 
-Welcome aboard! By contributing to the Starknet Book, you're doing more than sharing expertise—you're shaping the future of decentralized tech. Let's build a guide that helps developers unlock Starknet's potential.
+Bienvenido a bordo a contribuir con el *Starknet Book*, al hacerlo haras mas que compartir conocimiento estaras escribiendo el futuo de la tecnologias descentralizadas.  Contruyamos una guia que permitas los desarrolladores a explotar el potencial de Starknet.
 
-For detailed contribution guidelines, visit the https://github.com/starknet-edu/starknetbook/blob/main/CONTRIBUTING.adoc[Contributors Guide]. Every contribution counts. Your skills and passion will help make this book an invaluable tool.
+Para una guia detallada de como contribuir visita https://github.com/starknet-edu/starknetbook/blob/main/CONTRIBUTING.adoc[Guia de contribución]. Cada contribución cuenta. Tu pasión y habilidades harán de este libro una herramienta invaluable.
 
-=== How You Can Help
+=== ¿Como puedes ayudar?
 
-* Found an empty section? Fill it in!
-* Think we need a new section? Suggest one.
-* See room for improvement? Go ahead and tweak it.
-* Want to add code in a new programming language? Go for it.
-* Found a bug? Fix it.
+* Encuentras una sección vacia. Completala!
+* ¿Crees que hace falta una nueva sección? Suguierelo.
+* ¿Puede una sección ser mejorada? Sientete libre de modificarla.
+* ¿Quieres agregar codigo en otro lenguaje de programación? Por favor hazlo. 
+* ¿Consguiste un error? Arreglalo.
 * Exercises unclear? Add explanations.
 * Show off your favorite Cairo features through new exercises.
 

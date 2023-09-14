@@ -1,10 +1,10 @@
-= Lower computation costs with Starknet
+= Bajos costes de computo con Starknet
 
-== The Problem: High Compute Costs in Blockchains
+== El problema: Altos costos de computo en Blockchain. 
 
-Blockchains, despite their revolutionary implications, have been hitherto limited by high computational costs, translating to expensive transaction fees for users. This challenge becomes especially pronounced during peak network activities when congestion leads to sky-high gas prices. 
+A pesar de lo revolucionario de las Blockchains, han sido limitadas por los altos costos computacionales, conllevando asi a elevadas comisiones en transaccion para los usuarios. Mas aún durante picos de actividad en la red que generan congestión y un aumento considerable en los precios del gas.
 
-In 2021 and during the 'Pepe season' in May 2023, gas prices on Ethereum could soar up to 200 Gwei or more, making even a simple transaction, such as transferring 10 USDC, exorbitantly expensive. 
+En el 2021 y durante la 'Pepe season' en mayo de 2023, los precios del gas en Ethereum llegaron a alcanzar los 200 Gwwei o mas, llegando incluso una simple transacción como transferir 10 USDC a se exorbitantemente costosa.
 
 High computation costs do not just inconvenience users but also restrain the full potential of blockchain applications. The impacts of these costs are far-reaching and include:
 

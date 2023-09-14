@@ -48,15 +48,16 @@ Cairo esta diseñado para un nuevo paradigma llamado 'Computación demostrable',
 
 * Proposito único: Diseñado especificamente para contratos inteligentes.
 * Sin los limites de la EVM: Va más allá de lo que puede hacer la máquina virtual Ethereum.
-* Flexibility: Usa traits para mejorar la flexibilidad en vez de herencia.
+* Flexibilidad: Usa traits para mejorar la flexibilidad en vez de herencia.
 
 == Gobernanza
 
 La Fundación Starknet supervisa la gobernanza en Starknet. Sus responsabilidades incluyen:
 
-* Managing Starknet’s development and operations
-* Overseeing the Starknet DAO, which enables community involvement
-* Setting rules to maintain network integrity
+* Manejo de las operaciones y desarrollos en Starknet.
+* Supervisar la DAO de Starknet, permitiendo la participación de la comunidad.
+* Estableciendo reglas para mantener la integridad de la red. 
+
 
 Our focus is on technical input and debate for improving the protocol. While we value all perspectives, it's often the technical insights that steer us forward.
 

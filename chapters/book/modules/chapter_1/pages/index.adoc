@@ -43,7 +43,7 @@ Inspirado en Rust, Cairo permite crear contratos de forma rápida, segura y como
 
 === ¿Por qué elegir Cairo?
 
-Cairo esta diseñado para un nuevo paradigma llamado 'Computación demostrable', el cual permite a los programas probar que su ejecución fue correcta sin requerir correrlo nuevamente. He aquí por qué se destaca:
+Cairo esta diseñado para un nuevo paradigma llamado 'Computación verificable', el cual permite a los programas probar que su ejecución fue correcta sin requerir correrlo nuevamente. He aquí por qué se destaca:
 
 * Proposito único: Diseñado especificamente para contratos inteligentes.
 * Sin los limites de la EVM: Va más allá de lo que puede hacer la máquina virtual Ethereum.

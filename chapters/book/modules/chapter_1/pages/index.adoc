@@ -64,16 +64,16 @@ Los miembros pueden influir en Starknet votando por cambios. Aquí el proceso:
 
 * Se libera una nueva versión de prueba en la red de Goerli. 
 * Los miembros tienen seis dias para revisarla. 
-* A Snapshot proposal is made, and the community votes. 
-* A majority of 'YES' votes means an upgrade to the Mainnet.
+* Se crea una propuesta y la comunidad vota.
+* Si la mayoria vota 'SI' entonces se actualiza la red principal.
 
-In short, governance is key to Starknet’s evolution.
+En resumen, gobernanza en la clave para la evolución de Starknet.
 
-To propose an improvement, create a SNIP.
+Las mejoras son propuestas creando un SNIP (StarkNet Improvement Proposals).
 
-=== SNIP: StarkNet Improvement Proposals
+=== SNIP: Propuestas de mejoras en Starknet
 
-SNIP is short for StarkNet Improvement Proposal. It's essentially a blueprint that details proposed enhancements or changes to the StarkNet ecosystem. A well-crafted SNIP includes both the technical specifications of the change and the reasons behind it. If you're proposing a SNIP, it's your job to rally community support and document any objections (more details https://community.starknet.io/t/draft-simp-1-simp-purpose-and-guidelines/1197#what-is-a-snip-2[here]). Once a SNIP is approved, it becomes a part of the Starknet protocol. All the SNIPs can be found in https://github.com/starknet-io/SNIPs[this repository].
+SNIP e la abreviación de *StarkNet Improvement Proposal* en ingles. Es esencialmente un plano detalladao de la mejora propuesta o cambio en el ecosistema de Starknet. Un SNIP bien construido incluye tanto especificaciones tecnicas del cambio así como los motivos detras de ellos. Si estás proponiendo un SNIP, es tu trbajo , it's your job to rally community support and document any objections (more details https://community.starknet.io/t/draft-simp-1-simp-purpose-and-guidelines/1197#what-is-a-snip-2[here]). Once a SNIP is approved, it becomes a part of the Starknet protocol. All the SNIPs can be found in https://github.com/starknet-io/SNIPs[this repository].
 
 SNIPs serve three crucial roles:
 

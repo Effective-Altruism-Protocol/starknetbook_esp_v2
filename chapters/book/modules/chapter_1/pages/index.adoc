@@ -87,26 +87,26 @@ Para aquellos que están construyento en Starknet, los SNIPs no son solo recomen
 
 == Desarrollo
 
-La Fundación Starknet nutre activamente al ecosistema a traves de:
+La Fundación Starknet nutre activamente al ecosistema a través de:
 
 * Dar soporte a investigación y desarrollo.
 * Promoviendo la adopción de las tecnologias de Starknet.
 * Financiando y organizando conferencias y eventos.
 
-=== Community Engagement
+=== Participación de la comunidad
 
-Community strength matters to the Foundation. To foster engagement, it:
+La fuerza de la comunidad es importante para la Fundación. Para fomentar el compromiso la Fundación Starknet:
 
-* Organizes events and discussions
-* Collaborates with allied blockchain communities
-* Creates avenues for community contributions to Starknet’s growth
+* Organiza eventos y discusiones.
+* Colabora con comunidades aliadas en blockchain.
+* Crea vías para que la comunidad contribuya al crecimiento de Starknet.
 
-== What is Starkware?
+== ¿Qué es Starkware?
 
-Starkware, founded in 2018, focuses on zk-STARK technology. Its key products include:
+Starkware, fue fundada en 2018, enfocada a la tecnología zk-STARK. Entre sus productos clave encontramos:
 
-* StarkEx: A Layer 2 solution on Ethereum, efficient through STARK proofs
-* Cairo: An open-source language for efficient, scalable computation in decentralized apps (https://github.com/starkware-libs/cairo/tree/73c3ed0a1af65f53490866426ae49360b2304374[see repo])
+* StarkEx: Una solución eficiente de Capa 2 sobre Ethereum, basada en pruebas STARK.
+* Cairo: Un lenguaje de programación de código abierto diseñado para aplicaciones descre language for efficient, scalable computation in decentralized apps (https://github.com/starkware-libs/cairo/tree/73c3ed0a1af65f53490866426ae49360b2304374[see repo])
 
 Starknet, its latest project, aims for community-driven evolution under the Starknet Foundation’s governance.
 

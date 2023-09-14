@@ -79,7 +79,7 @@ Los SNIPs cumplen tres papeles cruciales:
 
 1. Son la via para proponer mejoras o cambios.
 2. Funcionan como una plataforma de discusión tecnica dentro de la comunidad.
-3. Documentan todo el proceso de toma de decisiones, ofreciendo un historico de la evolución de StarkNet.
+3. Documentan todo el proceso de toma de decisiones, ofreciendo un historico de la evolución de Starknet.
 
 Como los SNIPs son guardados en como archivos de texto en un https://github.com/starknet-io/SNIPs[repositorio con control de versiones], puedes facilmente seguir los cambios y entender el historial de cada propuesta.
 
@@ -87,11 +87,11 @@ Para aquellos que están construyento en Starknet, los SNIPs no son solo recomen
 
 == Desarrollo
 
-The Starknet Foundation actively nurtures the ecosystem by:
+La Fundación Starknet nutre activamente al ecosistema a traves de:
 
-* Supporting research and development
-* Promoting Starknet technology adoption
-* Funding and organizing conferences and events for knowledge sharing
+* Dar soporte a investigación y desarrollo.
+* Promoviendo la adopción de las tecnologias de Starknet.
+* Financiando y organizando conferencias y eventos.
 
 === Community Engagement
 

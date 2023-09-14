@@ -6,9 +6,9 @@ A pesar de lo revolucionario de las Blockchains, han sido limitadas por los alto
 
 En el 2021 y durante la 'Pepe season' en mayo de 2023, los precios del gas en Ethereum llegaron a alcanzar los 200 Gwwei o mas, llegando incluso una simple transacción como transferir 10 USDC a se exorbitantemente costosa.
 
-High computation costs do not just inconvenience users but also restrain the full potential of blockchain applications. The impacts of these costs are far-reaching and include:
+Los altos costos de computo no solamente son un inconveniente para los usuarios, sino que restringuen el potencial de las aplicaciones en blockchain. El gran impacto de estos costos afectan:
 
-* Regular transactions: The dream of using crypto for daily transactions remains largely unfulfilled, primarily due to prohibitive transaction fees. For instance, no user wants to pay a transaction fee of $1 for a $2 cup of coffee.
+* Transacciones regulares: The dream of using crypto for daily transactions remains largely unfulfilled, primarily due to prohibitive transaction fees. For instance, no user wants to pay a transaction fee of $1 for a $2 cup of coffee.
 * Oracles: Oracles, which fetch off-chain data for blockchains, cannot refresh data as frequently due to expensive transaction costs, leading to stale and inaccurate data on-chain.
 * Governance: On-chain governance, a transparent, decentralized decision-making method, is affected as users are dissuaded from voting due to high costs, leading to lower participation and less effective governance.
 * Gaming: The potential of truly decentralized gaming is limited as high computation costs restrict on-chain components in games.

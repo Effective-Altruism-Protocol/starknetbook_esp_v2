@@ -15,11 +15,12 @@ Estas son algunas de las caracateristicas importantes de Starknet:
 * Bajo Costo: Las transacciones en Starknet cuestan menos que en Ethereum. Proximas actualizaciones y mejoras como lo son Volition y la implementación EIP 4844 las harán aún mas economicas. 
 * Plataforma amigable con los desarrolladores: Starknet le permite a los desarrolladores construir aplicaciones descentralizadas usando su lenguaje nativo Cairo.
 * Rápidez y eficiencia:  Proximos lanzamientos apuntan a transacciones mas rápidas y economicas. 
+* CMV: Gracias a Cairo, Starknet ejecuta su propia maquina virtual. La Cairo VM (CVM), lo que nos permite innovar mas allá de la maquina virtual de Ethereum (EVM) y crear nuevos paradigmas para las aplicaciones descentralizadas. 
 
-However, the Cairo VM allow us to innovate beyond the Ethereum Virtual Machine (EVM) and create a new paradigm for decentralized applications.
+Algunos de ellos son:
 
-* Account Abstraction: Implemented at the protocol level, this facilitates diverse signing schemes while ensuring user security and self-custody of assets.
-* Volition: Gives developers the control to manage data availability on Ethereum (L1) or Starknet (L2), leading to lower costs.
+* Abstracción de cuentas (AA): Implementada a nivel de protocolo, facilita diversos esquemas de firma asegurando la seguridad y la custodia de activos.
+* *Volition*: Gives developers the control to manage data availability on Ethereum (L1) or Starknet (L2), leading to lower costs.
 * Paymaster: Supports gasless transactions, enhancing user accessibility.
 
 == Filosofia de Starknet: Creada para desarrolladores.

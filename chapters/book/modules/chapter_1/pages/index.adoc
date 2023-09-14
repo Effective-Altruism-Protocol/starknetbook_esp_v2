@@ -36,21 +36,22 @@ La filosofia que guia la ruta de Starknet:
 
 == Cairo: El lenguaje de Starknet
 
-Cairo is tailor-made for creating STARK-based smart contracts. As Starknet’s native language, it’s central to building scalable and secure decentralized apps. To start learning now, check out the https://cairo-book.github.io/[Cairo Book] and https://github.com/shramee/starklings-cairo1[Starklings].
+Caito esta diseñado par crear contratos inteligentes basados en STARK. Como lenguaje nativo de Starknet, es la base para contruir aplicaciones descentralizadas seguras y escalables. Si quieres aprenderlo a fondo recurre al https://cairo-book.github.io/es/[Cairo Book en español] y a https://github.com/shramee/starklings-cairo1[Starklings].
 
+Inspirado en Rust, Cairo permite crear contratos de forma rápida, segura y comoda. 
 Inspired by Rust, Cairo lets you write contracts safely and conveniently.
 
-=== Why Choose Cairo?
+=== ¿Por qué elegir Cairo?
 
-Cairo is designed for 'Provable Computation,' a new paradigm that lets programs prove their correctness without re-running them. Here’s why it stands out:
+Cairo esta diseñado para un nuevo paradigma llamado 'Computación demostrable', el cual permite a los programas probar que su ejecución fue correcta sin requerir correrlo nuevamente. He aquí por qué se destaca:
 
-* Purpose-Built: Designed specifically for smart contracts.
-* No EVM Limits: Goes beyond what the Ethereum Virtual Machine can do.
-* Flexibility: Uses traits for more flexibility than inheritance.
+* Proposito único: Diseñado especificamente para contratos inteligentes.
+* Sin los limites de la EVM: Va más allá de lo que puede hacer la máquina virtual Ethereum.
+* Flexibility: Usa traits para mejorar la flexibilidad en vez de herencia.
 
-== Governance
+== Gobernanza
 
-The Starknet Foundation oversees Starknet’s governance. Its duties include:
+La Fundación Starknet supervisa la gobernanza en Starknet. Sus responsabilidades incluyen:
 
 * Managing Starknet’s development and operations
 * Overseeing the Starknet DAO, which enables community involvement

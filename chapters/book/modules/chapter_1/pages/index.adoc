@@ -20,8 +20,8 @@ Estas son algunas de las caracateristicas importantes de Starknet:
 Algunos de ellos son:
 
 * Abstracción de cuentas (AA): Implementada a nivel de protocolo, facilita diversos esquemas de firma asegurando la seguridad y la custodia de activos.
-* *Volition*: Gives developers the control to manage data availability on Ethereum (L1) or Starknet (L2), leading to lower costs.
-* Paymaster: Supports gasless transactions, enhancing user accessibility.
+* *Volition*: Será implementado en la testnet en el Q4 de 2023, permitirá a los desarrolladores regutlas la disponibilidad de datos en Ethereum (L1) o en Starknet (L2). Reducir la cantidad de datos en la L1 reducirá radicalmente los costos.
+* Paymaster: Starknet permitirá a los usuarios elegir como pagas la comisión de las transacciones, siguiendo los lineamientos propuestos en la EIP-4337 y permitiendo a la transacción indicar un contrato especifico, se crea un Paymaster para pagar la transacción. Proveyendo transacciones sin gas, mejorando la accesibilidad del usuario. 
 
 == Filosofia de Starknet: Creada para desarrolladores.
 

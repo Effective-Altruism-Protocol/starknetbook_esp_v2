@@ -73,7 +73,7 @@ Las mejoras son propuestas creando un SNIP (StarkNet Improvement Proposals).
 
 === SNIP: Propuestas de mejoras en Starknet
 
-SNIP es la abreviación de *StarkNet Improvement Proposal* en ingles. Es esencialmente un plano detalladao de la mejora propuesta o cambio en el ecosistema de Starknet. Un SNIP bien construido incluye tanto especificaciones tecnicas del cambio así como los motivos detras de ellos. Si estás proponiendo un SNIP, es tu deber buscar el apoyo de la comunidad y documentar las objeciones (para mas detalles https://community.starknet.io/t/draft-simp-1-simp-purpose-and-guidelines/1197#what-is-a-snip-2[aquí]). Una vez que un SNIP es aprobado, se vuelve parte del protocolo de Starknet. Todos los SNIPs estan publicados en https://github.com/starknet-io/SNIPs[este repositorio].
+SNIP es la abreviación de *StarkNet Improvement Proposal* en ingles. Es esencialmente un plano detalladao de la mejora propuesta o cambio en el ecosistema de Starknet. Un SNIP bien construido incluye tanto especificaciones tecnicas del cambio así como los motivos detras de ellos. Si estás proponiendo un SNIP, es tu deber buscar el apoyo de la comunidad y documentar las objeciones (para mas detalles https://community.starknet.io/t/draft-simp-1-simp-purpose-and-guidelines/1197#what-is-a-snip-2[aquí]). Una vez que un SNIP es aprobado se vuelve parte del protocolo de Starknet. Todos los SNIPs estan publicados en https://github.com/starknet-io/SNIPs[este repositorio].
 
 SNIPs serve three crucial roles:
 

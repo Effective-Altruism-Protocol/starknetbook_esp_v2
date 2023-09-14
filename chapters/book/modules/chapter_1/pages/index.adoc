@@ -112,12 +112,12 @@ Starknet en sus ultimos proyectos, apunta a una evolución impulsada por la comu
 
 == Recursos de apendizaje
 
-For deeper insights into Starknet and Cairo:
+Para profundizar en Starknet y Cairo:
 
-* https://book.starknet.io[The Starknet Book]: For mastering Starknet
-* https://cairo-book.github.io/[The Cairo Book]: For mastering Cairo
-* https://github.com/shramee/starklings-cairo1[Starklings]: Practical tutorials and examples
+* https://book.starknet.io[El Starknet Book]: Para dominar Starknet
+* https://cairo-book.github.io/es[Con el Cairo Book en español]: dominaras Cairo.
+* https://github.com/shramee/starklings-cairo1[Starklings]: Herramienta para practicar Cairo, basada en Rustlings.
 
-== Conclusion
+== Conclusión
 
-Starknet offers scalable, secure, and cost-effective decentralized apps, backed by zk-STARKs technology. It’s not just the tech; Starknet puts emphasis on empowering its developer community with robust tools and resources. This book aims to guide all those keen to explore Starknet’s technologies and philosophies.
+Starknet ofrece aplicaciones descentralizadas escalables, seguras y economicas, respaldadas por le tecnologia zk-STARK. No es solo sobre tecnologia, Starknet hace enfasis en empoderar a los la comunidada de desarrolladores con herramientas y recursos robustos. Este libro busca guiar a todos esos que desean explorar Starknet, su tecnologia y su filosofia.

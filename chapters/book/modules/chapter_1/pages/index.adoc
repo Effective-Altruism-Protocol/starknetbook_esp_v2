@@ -75,17 +75,17 @@ Las mejoras son propuestas creando un SNIP (StarkNet Improvement Proposals).
 
 SNIP es la abreviación de *StarkNet Improvement Proposal* en ingles. Es esencialmente un plano detalladao de la mejora propuesta o cambio en el ecosistema de Starknet. Un SNIP bien construido incluye tanto especificaciones tecnicas del cambio así como los motivos detras de ellos. Si estás proponiendo un SNIP, es tu deber buscar el apoyo de la comunidad y documentar las objeciones (para mas detalles https://community.starknet.io/t/draft-simp-1-simp-purpose-and-guidelines/1197#what-is-a-snip-2[aquí]). Una vez que un SNIP es aprobado se vuelve parte del protocolo de Starknet. Todos los SNIPs estan publicados en https://github.com/starknet-io/SNIPs[este repositorio].
 
-SNIPs serve three crucial roles:
+Los SNIPs cumplen tres papeles cruciales:
 
-1. They are the main avenue for proposing new features or changes.
-2. They act as a platform for technical discussions within the community.
-3. They document the decision-making process, offering a historical view of how StarkNet has evolved.
+1. Son la via para proponer mejoras o cambios.
+2. Funcionan como una plataforma de discusión tecnica dentro de la comunidad.
+3. Documentan todo el proceso de toma de decisiones, ofreciendo un historico de la evolución de StarkNet.
 
-Because SNIPs are stored as text files in a https://github.com/starknet-io/SNIPs[version-controlled repository], you can easily track changes and understand the history of proposals.
+Como los SNIPs son guardados en como archivos de texto en un https://github.com/starknet-io/SNIPs[repositorio con control de versiones], puedes facilmente seguir los cambios y entender el historial de cada propuesta.
 
-For those who are building on Starknet, SNIPs aren't just suggestions—they're a roadmap. It's beneficial for implementers to keep a list of the SNIPs they've executed. This transparency helps users gauge the state of a particular implementation or software library.
+Para aquellos que están construyento en Starknet, los SNIPs no son solo recomendaciones, son una hoja de ruta. Es importante para los implementadores mantener una lista de los SNIP que han ejecutado. Esta transparencia ayuda a los usuarios a conocer el estado de una implementación particular o libreria.
 
-== Development
+== Desarrollo
 
 The Starknet Foundation actively nurtures the ecosystem by:
 

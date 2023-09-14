@@ -67,7 +67,7 @@ Los miembros pueden influir en Starknet votando por cambios. Aquí el proceso:
 * Se crea una propuesta y la comunidad vota.
 * Si la mayoria vota 'SI' entonces se actualiza la red principal.
 
-En resumen, gobernanza en la clave para la evolución de Starknet.
+En resumen, la gobernanza en la clave para la evolución de Starknet.
 
 Las mejoras son propuestas creando un SNIP (StarkNet Improvement Proposals).
 
@@ -103,14 +103,14 @@ La fuerza de la comunidad es importante para la Fundación. Para fomentar el com
 
 == ¿Qué es Starkware?
 
-Starkware, fue fundada en 2018, enfocada a la tecnología zk-STARK. Entre sus productos clave encontramos:
+Starkware, fue fundada en 2018 esta enfocada en la tecnología zk-STARK. Entre sus productos clave encontramos:
 
 * StarkEx: Una solución eficiente de Capa 2 sobre Ethereum, basada en pruebas STARK.
-* Cairo: Un lenguaje de programación de código abierto diseñado para aplicaciones descre language for efficient, scalable computation in decentralized apps (https://github.com/starkware-libs/cairo/tree/73c3ed0a1af65f53490866426ae49360b2304374[see repo])
+* Cairo: Un lenguaje de programación de código abierto diseñado para eficiencia en aplicaciones descentralizadas (https://github.com/starkware-libs/cairo/tree/73c3ed0a1af65f53490866426ae49360b2304374[mira su repositorio].)
 
-Starknet, its latest project, aims for community-driven evolution under the Starknet Foundation’s governance.
+Starknet en sus ultimos proyectos, apunta a una evolución impulsada por la comunidad bajo la gobernanza de la Fundación Starknet.
 
-== Learning Resources
+== Recursos de apendizaje
 
 For deeper insights into Starknet and Cairo:
 
